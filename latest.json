@@ -1,7 +1,7 @@
 {
-  "version": "3.0.1",
-  "notes": "## Version 3.0.1 - Terminal UI Fixes & Ollama Cloud\n\n### Added\n- ☁️ Ollama Cloud integration - Access 120B models without GPU\n- 🔍 Model discovery tool for Ollama Cloud\n\n### Fixed\n- ⚡ Terminal auto-scroll - Instant scroll to bottom\n- 🎨 Terminal selection - Bright blue, highly visible  \n- 🖥️ Windows fonts - Beautiful Consolas/Cascadia Code\n- 🚀 Selection scroll - 3-5x faster during text selection\n\n### Improved\n- Terminal performance - Instant response, no lag\n- Cross-platform fonts - Professional on all OS\n- Text selection visibility - 375% improvement\n- Scroll behavior - Smooth and responsive",
-  "pub_date": "2026-01-08T00:00:00Z",
+  "version": "3.0.3",
+  "notes": "## Version 3.0.3 - Terminal UI Fixes & Ollama Cloud\n\n### Added\n- ☁️ Ollama Cloud integration - Access 120B models without GPU\n- 🔍 Model discovery tool for Ollama Cloud\n\n### Fixed\n- ⚡ Terminal auto-scroll - Instant scroll to bottom\n- 🎨 Terminal selection - Bright blue, highly visible  \n- 🖥️ Windows fonts - Beautiful Consolas/Cascadia Code\n- 🚀 Selection scroll - 3-5x faster during text selection\n\n### Improved\n- Terminal performance - Instant response, no lag\n- Cross-platform fonts - Professional on all OS\n- Text selection visibility - 375% improvement\n- Scroll behavior - Smooth and responsive",
+  "pub_date": "2026-01-13T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
