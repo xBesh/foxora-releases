@@ -1,20 +1,20 @@
 {
-  "version": "3.0.2",
-  "releaseDate": "2026-01-12T00:00:00Z",
-  "changelog": "## Version 3.0.2 - Terminal UI Fixes & Ollama Cloud\n\n### Added\n- ☁️ Ollama Cloud integration - Access 120B models without GPU\n- 🔍 Model discovery tool for Ollama Cloud\n\n### Fixed\n- ⚡ Terminal auto-scroll - Instant scroll to bottom\n- 🎨 Terminal selection - Bright blue, highly visible\n- 🖥️ Windows fonts - Beautiful Consolas/Cascadia Code\n- 🚀 Selection scroll - 3-5x faster during text selection\n\n### Improved\n- Terminal performance - Instant response, no lag\n- Cross-platform fonts - Professional on all OS\n- Text selection visibility - 375% improvement\n- Scroll behavior - Smooth and responsive",
+  "version": "3.0.3",
+  "releaseDate": "2026-01-13T00:00:00Z",
+  "changelog": "## Version 3.0.3 - Terminal UI Fixes & Ollama Cloud\n\n### Added\n- ☁️ Ollama Cloud integration - Access 120B models without GPU\n- 🔍 Model discovery tool for Ollama Cloud\n\n### Fixed\n- ⚡ Terminal auto-scroll - Instant scroll to bottom\n- 🎨 Terminal selection - Bright blue, highly visible\n- 🖥️ Windows fonts - Beautiful Consolas/Cascadia Code\n- 🚀 Selection scroll - 3-5x faster during text selection\n\n### Improved\n- Terminal performance - Instant response, no lag\n- Cross-platform fonts - Professional on all OS\n- Text selection visibility - 375% improvement\n- Scroll behavior - Smooth and responsive",
   "required": false,
   "downloads": {
     "windows": {
-      "exe": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.2/foxora-ai-3.0.2-x64-setup.exe",
-      "msi": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.2/foxora-ai-3.0.2-x64.msi"
+      "exe": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.1/foxora-ai-3.0.1-x64-setup.exe",
+      "msi": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.1/foxora-ai-3.0.1-x64.msi"
     },
     "macos": {
-      "dmg": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.2/foxora_v3.0.2.dmg",
-      "universal": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.2/foxora_v3.0.2_universal.dmg"
+      "dmg": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.1/foxora_v3.0.1.dmg",
+      "universal": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.1/foxora_v3.0.1_universal.dmg"
     },
     "linux": {
-      "appimage": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.2/foxora-ai-3.0.2-x86_64.AppImage",
-      "deb": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.2/foxora-ai-3.0.2-amd64.deb"
+      "appimage": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.1/foxora-ai-3.0.2-x86_64.AppImage",
+      "deb": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.1/foxora-ai-3.0.2-amd64.deb"
     }
   }
 }
