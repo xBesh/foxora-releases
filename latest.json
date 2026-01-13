@@ -1,23 +1,23 @@
 {
-  "version": "3.0.3",
-  "notes": "## Version 3.0.3 - Terminal UI Fixes & Ollama Cloud\n\n### Added\n- ☁️ Ollama Cloud integration - Access 120B models without GPU\n- 🔍 Model discovery tool for Ollama Cloud\n\n### Fixed\n- ⚡ Terminal auto-scroll - Instant scroll to bottom\n- 🎨 Terminal selection - Bright blue, highly visible  \n- 🖥️ Windows fonts - Beautiful Consolas/Cascadia Code\n- 🚀 Selection scroll - 3-5x faster during text selection\n\n### Improved\n- Terminal performance - Instant response, no lag\n- Cross-platform fonts - Professional on all OS\n- Text selection visibility - 375% improvement\n- Scroll behavior - Smooth and responsive",
-  "pub_date": "2026-01-13T00:00:00Z",
+  "version": "3.0.1",
+  "notes": "## Version 3.0.1 - Terminal UI Fixes & Ollama Cloud\n\n### Added\n- ☁️ Ollama Cloud integration - Access 120B models without GPU\n- 🔍 Model discovery tool for Ollama Cloud\n\n### Fixed\n- ⚡ Terminal auto-scroll - Instant scroll to bottom\n- 🎨 Terminal selection - Bright blue, highly visible  \n- 🖥️ Windows fonts - Beautiful Consolas/Cascadia Code\n- 🚀 Selection scroll - 3-5x faster during text selection\n\n### Improved\n- Terminal performance - Instant response, no lag\n- Cross-platform fonts - Professional on all OS\n- Text selection visibility - 375% improvement\n- Scroll behavior - Smooth and responsive",
+  "pub_date": "2026-01-08T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://github.com/xBesh/foxora-releases/blob/main/v3.0.1/foxora-ai_3.0.1_AppleSilicon.dmg"
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v3.0.1/foxora-ai_3.0.1_AppleSilicon.dmg"
     },
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.3/foxora_v3.0.3.dmg"
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v3.0.1/foxora-ai_3.0.1_AppleSilicon.dmg"
     },
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.3/foxora-ai-3.0.3-x86_64.AppImage"
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v3.0.1/foxora-ai_3.0.1_x86_64.AppImage"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/xBesh/foxora-releases/releases/download/v3.0.3/foxora-ai-3.0.3-x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v3.0.1/foxora-ai_3.0.1_x64-setup.exe"
     }
   }
 }
