@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v3.0.2/foxora-ai_3.0.2_AppleSilicon.dmg"
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v3.0.2/foxora-ai_3.0.2_aarch64.dmg"
     },
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v3.0.2/foxora-ai_3.0.2_AppleSilicon.dmg"
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v3.0.2/foxora-ai_3.0.2_Intel.dmg"
     },
     "linux-x86_64": {
       "signature": "",
