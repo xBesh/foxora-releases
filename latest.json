@@ -1,14 +1,14 @@
 {
   "version": "4.0.1",
   "notes": "## Version 4.0.1 - Dev build\n\nTest update for development.",
-  "pub_date": "2026-02-12T00:22:44Z",
+  "pub_date": "2026-02-12T00:22:54Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "eDHYYwbGsyOQxPceTZBidkCkRgABn4KfmrKqGhNeweUhOO4KOfzMM9HpCv6B6pLQig00EhBGxbKxRQQhSy5IBg==",
       "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora-ai_4.0.1_AppleSilicon.dmg"
     },
     "darwin-x86_64": {
-      "signature": "WwtT3ACczqWU9OlnUNriOTcGZflSZvBbBHjIW1fKMK87vIBIwbOn8wGQkuu0wHSFf/Nwro5WVxkFZ8R7ExFnBg==",
+      "signature": "xleR3UPpjYED6VTT0ZXv/WivTMErXrdRhbPNEBVfDti3HQyKkPv2izFTnjJO9xpJ6i7dVe9oO2XxRIT3+4K3BA==",
       "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora-ai_4.0.1_Intel.dmg"
     },
     "windows-x86_64": {
