@@ -1,15 +1,15 @@
 {
   "version": "4.0.1",
-  "notes": "## Version 4.0.1 - Dev build",
-  "pub_date": "2026-02-12T00:43:55Z",
+  "notes": "## Version 4.0.1 - Dev build\n\nTest update for development.",
+  "pub_date": "2026-02-12T02:31:25Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "untrusted comment: signature from minisign secret key\nRUS7ijDScO4K3s8HpooWUHCnopiCuTjk1lrHURB7YLhxBptceDvliEiOSmdlPh5OJ/TSJaXZtBny13z9ikiId+RW8DCEktWrkQA=\ntrusted comment: timestamp:1770856962\tfile:foxora.app.tar.gz\thashed\nqqa+4TNVKJ+uCyo4LsEzqnSsFv3U34gMG4yD5NpCmD715vRDhsN5UkOK8ZEP0VSEDALh9GYcwZFuvvFKwl2EDQ==\n",
-      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTN2lqRFNjTzRLM3E3eCtqQmk4emNmcFI3bEpjaEFpaXFXUFZYdHowOExpeUlWbDVFZFZ3MHJpbTB4QlA3YVRrZGNzcGdDZ3pYSTNJWVQxUzBKL3lua3M3LzZicHVOcFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODYzNDc1CWZpbGU6Zm94b3JhLWFpXzQuMC4xX0FwcGxlU2lsaWNvbi5kbWcJaGFzaGVkCk0vWjl0K3hjNEMwamNyQ3hORVd5YmN5d2tPMDZTa0t0YUcycXdHMVpRZytEbURyQXp2WGUxWXRiclg0WWZSU21OWUE3Q3dJcm90YnM2cUFpd2E2RER3PT0K",
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora-ai_4.0.1_AppleSilicon.dmg"
     },
     "darwin-x86_64": {
-      "signature": "untrusted comment: signature from minisign secret key\nRUS7ijDScO4K3iNAKGTiTFpGHrSpZLfEgSTNCzgAy98URJu0fju2t06Un2zZuTNuCnv+c+nTpDKHZ+rpH7VS8lR8HURfhfng8A0=\ntrusted comment: timestamp:1770857023\tfile:foxora.app.tar.gz\thashed\nUTwNfor5pTqkvN079XohH5YdhzbOhr7wXV4GliTcoJJ/CjghQCJWSzpi1PIXiPOxqnVdPF0VfV42KmgjMqDCDw==\n",
-      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora-x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTN2lqRFNjTzRLM3FHVXhvMzYzNXozMHE0RjdRUHNKNXNUekpMaGFsTlBaVWlnN3JOb3VHcWZsVEVlbXc1NG9qYUdoeExpMDVTUHdCaHNvWTdaKzBNZkh0RjRRMlArK3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODYzNDgwCWZpbGU6Zm94b3JhLWFpXzQuMC4xX0ludGVsLmRtZwloYXNoZWQKbkxGYiswYk11YzljaUdDUFQ0UkJkcFJ2MXNtOXNXUnVsTFhHVFh4WnE2cEJmK0ZvcksxQmZQc0tsUk5XeGdNR01pcnQ3UXJxWjRBK3l1NGdwOFRjQlE9PQo=",
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora-ai_4.0.1_Intel.dmg"
     },
     "windows-x86_64": {
       "signature": "",
