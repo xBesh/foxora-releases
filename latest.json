@@ -1,14 +1,14 @@
 {
   "version": "4.0.1",
   "notes": "## Version 4.0.1 - Dev build\n\nTest update for development.",
-  "pub_date": "2026-02-12T00:22:54Z",
+  "pub_date": "2026-02-12T00:40:12Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "eDHYYwbGsyOQxPceTZBidkCkRgABn4KfmrKqGhNeweUhOO4KOfzMM9HpCv6B6pLQig00EhBGxbKxRQQhSy5IBg==",
+      "signature": "untrusted comment: signature from minisign secret key\nRUS7ijDScO4K3svZnWNadC6VJYy88gRMAX1i8QwEN3FFyB1CHWbTq0y2HEUDsHbNJZJLbjhSGfRjavkorZfYmqEyNzOlGm1GyAY=\ntrusted comment: timestamp:1770855750\tfile:foxora-ai_4.0.1_AppleSilicon.dmg\thashed\neDHYYwbGsyOQxPceTZBidkCkRgABn4KfmrKqGhNeweUhOO4KOfzMM9HpCv6B6pLQig00EhBGxbKxRQQhSy5IBg==\n",
       "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora-ai_4.0.1_AppleSilicon.dmg"
     },
     "darwin-x86_64": {
-      "signature": "xleR3UPpjYED6VTT0ZXv/WivTMErXrdRhbPNEBVfDti3HQyKkPv2izFTnjJO9xpJ6i7dVe9oO2XxRIT3+4K3BA==",
+      "signature": "untrusted comment: signature from minisign secret key\nRUS7ijDScO4K3gF/r0M+ZI7GsXM+FgPWmCob54mUkZzKonE8Ro8VPxqIVqq/3x6OGGQQ8uI94gggN5ZnR+EVuSdtjzKROWkAYgI=\ntrusted comment: timestamp:1770855750\tfile:foxora-ai_4.0.1_Intel.dmg\thashed\nxleR3UPpjYED6VTT0ZXv/WivTMErXrdRhbPNEBVfDti3HQyKkPv2izFTnjJO9xpJ6i7dVe9oO2XxRIT3+4K3BA==\n",
       "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora-ai_4.0.1_Intel.dmg"
     },
     "windows-x86_64": {
