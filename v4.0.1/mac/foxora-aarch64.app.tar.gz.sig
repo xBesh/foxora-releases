@@ -1,4 +1,4 @@
 untrusted comment: signature from minisign secret key
-RUS7ijDScO4K3vKw4RgyaX43o+yjlCRyq+W1N+RwXwtaii7mNbgn/wO0McLGd7w/AZxTCOX4pm3E1BT5MbFutPs115lcv3qutgY=
-trusted comment: timestamp:1770909220	file:foxora-aarch64.app.tar.gz	hashed
-798G6dORT1BDgVXu2pvLpvN4n9GLT86WmAxOmRx53COlhY8v+lSf0kxSEKeu525Lnfxpv51fbDuKQC2CmO0kBQ==
+RUS7ijDScO4K3nYO8JahVj8XpUHK5bRGojKSjOLHC3/hsy8faBZj6c4TumubRawqCcQ6QurM4w0cQ5JnwfoNbZ97VcXQCPkGeAg=
+trusted comment: timestamp:1770912236	file:foxora-aarch64.app.tar.gz	hashed
+P1y4NYPUUcHntm6lkRy/6IvO0zmOClh8B8/ozk4t3MeEecisb6rfbCsEWqWUe98+bUWyO8Fo1O+WbyHSWJBvBA==
