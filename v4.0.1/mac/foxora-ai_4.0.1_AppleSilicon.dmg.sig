@@ -1,4 +1,4 @@
 untrusted comment: signature from minisign secret key
-RUS7ijDScO4K3q7x+jBi8zcfpR7lJchAiiqWPVXtz08LiyIVl5EdVw0rim0xBP7aTkdcspgCgzXI3IYT1S0J/ynks7/6bpuNpQw=
-trusted comment: timestamp:1770863475	file:foxora-ai_4.0.1_AppleSilicon.dmg	hashed
-M/Z9t+xc4C0jcrCxNEWybcywkO06SkKtaG2qwG1ZQg+DmDrAzvXe1YtbrX4YfRSmNYA7CwIrotbs6qAiwa6DDw==
+RUS7ijDScO4K3qkJVdtz66BHqgerTNy2EN4X8uhR/lP1H37JbCPG08QWqFV7lQrNH2IFJR/JfQFBPRb9IRCBAJjgCXQak4/srAI=
+trusted comment: timestamp:1770900868	file:foxora-ai_4.0.1_AppleSilicon.dmg	hashed
+v6W9k86kgwAFWGwZjQ7YSqnZSmRltePKLnerxcFl/O/cOfCovl2CgTGql7QnVQW2bNb/JvV+Alb9ulElrDOUAQ==

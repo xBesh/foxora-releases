@@ -1,15 +1,15 @@
 {
   "version": "4.0.1",
   "notes": "## Version 4.0.1 - Dev build\n\nTest update for development.",
-  "pub_date": "2026-02-12T02:31:25Z",
+  "pub_date": "2026-02-12T12:54:40Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTN2lqRFNjTzRLM3E3eCtqQmk4emNmcFI3bEpjaEFpaXFXUFZYdHowOExpeUlWbDVFZFZ3MHJpbTB4QlA3YVRrZGNzcGdDZ3pYSTNJWVQxUzBKL3lua3M3LzZicHVOcFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODYzNDc1CWZpbGU6Zm94b3JhLWFpXzQuMC4xX0FwcGxlU2lsaWNvbi5kbWcJaGFzaGVkCk0vWjl0K3hjNEMwamNyQ3hORVd5YmN5d2tPMDZTa0t0YUcycXdHMVpRZytEbURyQXp2WGUxWXRiclg0WWZSU21OWUE3Q3dJcm90YnM2cUFpd2E2RER3PT0K",
-      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora-ai_4.0.1_AppleSilicon.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTN2lqRFNjTzRLM3NFOWRVc3pwbEkzbUExVGJ3MHUyVVhtR0Z0WmhoajU3RWprcm5GeE0zWTJtMmdGdEZYbjdaclloZnlHS0lqOVZnTGNJNGRTVlYyTllHaFhra0c3SlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTAwODUxCWZpbGU6Zm94b3JhLWFhcmNoNjQuYXBwLnRhci5negloYXNoZWQKaVJVaWNoRXZkRms2ZFZZWDFpUHQ3LzM4ZTNtcVpjV2JYMEZ6R1dvdXp3aXRONGFsdUtZSmVVMU0rQXlTVTBwdVZkUGlKWFdnOTRveVg2bDgvZG1uQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora-aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTN2lqRFNjTzRLM3FHVXhvMzYzNXozMHE0RjdRUHNKNXNUekpMaGFsTlBaVWlnN3JOb3VHcWZsVEVlbXc1NG9qYUdoeExpMDVTUHdCaHNvWTdaKzBNZkh0RjRRMlArK3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwODYzNDgwCWZpbGU6Zm94b3JhLWFpXzQuMC4xX0ludGVsLmRtZwloYXNoZWQKbkxGYiswYk11YzljaUdDUFQ0UkJkcFJ2MXNtOXNXUnVsTFhHVFh4WnE2cEJmK0ZvcksxQmZQc0tsUk5XeGdNR01pcnQ3UXJxWjRBK3l1NGdwOFRjQlE9PQo=",
-      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora-ai_4.0.1_Intel.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTN2lqRFNjTzRLM3VMbWRlYlhwS0JqY2wvK1k5SUJRZEk4YlJEajhsWDVGZnZkQlJhTm9pa0VzeGI0RnZCMEdyMm50YTRlNU1FNmJJSVZoU2FjOVFVZUlDakp3QjRtRVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTAwODUyCWZpbGU6Zm94b3JhLXg2NC5hcHAudGFyLmd6CWhhc2hlZApHbmJ2aEs0UzNFOEFiMm9td21WSHhNeTB0TlU3eEZBSkFIa0JmNEJkK2hxQU80a2hhY1o3YWhzVW9hMjFmcjNaeTVKVHdOME85NHpFc1BVWERvWXFBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/dev/v4.0.1/mac/foxora-x64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",

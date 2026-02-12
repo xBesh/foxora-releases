@@ -1,4 +1,4 @@
 untrusted comment: signature from minisign secret key
-RUS7ijDScO4K3qGUxo3635z30q4F7QPsJ5sTzJLhalNPZUig7rNouGqflTEemw54ojaGhxLi05SPwBhsoY7Z+0MfHtF4Q2P++wc=
-trusted comment: timestamp:1770863480	file:foxora-ai_4.0.1_Intel.dmg	hashed
-nLFb+0bMuc9ciGCPT4RBdpRv1sm9sWRulLXGTXxZq6pBf+ForK1BfPsKlRNWxgMGMirt7QrqZ4A+yu4gp8TcBQ==
+RUS7ijDScO4K3jR39QHIMzU+0ObiUPF40kBQqfIjp7h37JOnkUSmQy57Ca2SXNbrsrr4An/6aFNIFCeKmzYpKPSCexaaqU/uagE=
+trusted comment: timestamp:1770900873	file:foxora-ai_4.0.1_Intel.dmg	hashed
+tjcioilVyMwRlV39g1WsSZ3NMlhuZj7zjVsrx8trPJ1gt35piN2t0fye3vW4wF5Tld9EomGJDI7+BpPH/v41Cw==
