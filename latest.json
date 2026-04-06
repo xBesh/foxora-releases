@@ -1,15 +1,15 @@
 {
-  "version": "4.0.0",
-  "notes": "## Version 4.0.0 - The Operating System for AI Agents\n\n### 🚀 Major Release\n\nWhy are all AI agents headless? We have IDEs for coding, browsers for web automation, but agents? Just terminal commands and APIs.\n\n**Foxora is the first operating system for AI agents with native UIs.**\n\n### ✨ What's New\n- 🎨 **Native Agent Interfaces** - Developer agents get IDE layouts, browser agents get browsers, chat agents get messaging interfaces, and mail agents get email interfaces\n- 🔗 **Unified Environment** - All agents can see and coordinate with each other in one place\n- 🏗️ **Pre-built Layouts** - No more re-creating interfaces from scratch for every agent\n- 🤖 **Agent-First Design** - Built specifically for AI agents, not adapted from app-focused systems\n\n### 💡 The Vision\nThink of Foxora as a desktop operating system, but for agents, not apps. Every agent deserves its own interface, and now they have one.\n\n*Welcome to the future of AI agents.*",
-  "pub_date": "2026-02-09T00:00:00Z",
+  "version": "4.0.1",
+  "notes": "## Version 4.0.1\n\n- New auto-update system using native Tauri updater\n- Cursor-style update toast (bottom-left)\n- Real download progress bar\n- Clean update architecture",
+  "pub_date": "2026-04-06T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "",
-      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v4.0.0/mac/foxora-ai_4.0.0_AppleSilicon.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTN2lqRFNjTzRLM3BkRUV1aXVMdngxbzZXRE1hVVYyTjRjQUpCei90YTEwWGRrRTV5RE1TZnBldGc4c0pIaEVIREJHN3IwQVB6UDUyZUF5YUh2NzhpZjd1Y0Y0bE1ZS1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTE2NzM5CWZpbGU6Zm94b3JhLWFhcmNoNjQuYXBwLnRhci5negloYXNoZWQKcFZRWU1SUGpZcnVTS29DdWthVHJWNk51a0dCZFo4bE9SQjFKSXdudHNteU5GbGlybWxZemIxa0pBWStPanR6eGErWFBjc2JoY0VTcThEdGRQR1RFQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v4.0.1/mac/foxora-aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "",
-      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v4.0.0/mac/foxora-ai_4.0.0_Intel.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTN2lqRFNjTzRLM3Vsc01wMG5PaGR6KzZlUjFDOTdyWVg4ZkoxZUhJN1p3eDBUeG5xQmN3blVRR3ZLMm9iY0cxUTNraTU5dVlJRjVUL01adExxc1hRaDUwRXF0aEFGaVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTE2NzQwCWZpbGU6Zm94b3JhLXg2NC5hcHAudGFyLmd6CWhhc2hlZAprMWVkdGJXcTJRbmlIeWFOYUJUZnVlWUtoMzRYQjVOejRidTR3a2xPSWJyWHZkbnRyaDltcXFIMlhER3ZrcXFoQWZkOEpJaWVMRDQ5Mko5U0NrWENEUT09Cg==",
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v4.0.1/mac/foxora-x64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
