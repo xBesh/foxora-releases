@@ -1,15 +1,15 @@
 {
-  "version": "4.0.2",
-  "notes": "## Version 4.0.2\n\n- Auto-update system fully working\n- Cursor-style update toast with real progress\n- Clean Tauri plugin-updater integration",
-  "pub_date": "2026-04-06T12:30:00Z",
+  "version": "4.0.1",
+  "notes": "## Version 4.0.1\n\n- Engine bundled inside .app \u2014 no external runtime needed\n- foxora-engine renamed (was .mastra/output); paths now branded\n- Native modules (libsql, better-sqlite3, fsevents, bare-*) signed for notary\n- Apple-Silicon signed + notarized + stapled DMG",
+  "pub_date": "2026-05-12T10:13:03Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTN2lqRFNjTzRLM3BkRUV1aXVMdngxbzZXRE1hVVYyTjRjQUpCei90YTEwWGRrRTV5RE1TZnBldGc4c0pIaEVIREJHN3IwQVB6UDUyZUF5YUh2NzhpZjd1Y0Y0bE1ZS1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTE2NzM5CWZpbGU6Zm94b3JhLWFhcmNoNjQuYXBwLnRhci5negloYXNoZWQKcFZRWU1SUGpZcnVTS29DdWthVHJWNk51a0dCZFo4bE9SQjFKSXdudHNteU5GbGlybWxZemIxa0pBWStPanR6eGErWFBjc2JoY0VTcThEdGRQR1RFQnc9PQo=",
-      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v4.0.2/mac/foxora-aarch64.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v4.0.1/mac/foxora-aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTN2lqRFNjTzRLM3Vsc01wMG5PaGR6KzZlUjFDOTdyWVg4ZkoxZUhJN1p3eDBUeG5xQmN3blVRR3ZLMm9iY0cxUTNraTU5dVlJRjVUL01adExxc1hRaDUwRXF0aEFGaVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwOTE2NzQwCWZpbGU6Zm94b3JhLXg2NC5hcHAudGFyLmd6CWhhc2hlZAprMWVkdGJXcTJRbmlIeWFOYUJUZnVlWUtoMzRYQjVOejRidTR3a2xPSWJyWHZkbnRyaDltcXFIMlhER3ZrcXFoQWZkOEpJaWVMRDQ5Mko5U0NrWENEUT09Cg==",
-      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v4.0.2/mac/foxora-x64.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/xBesh/foxora-releases/main/v4.0.1/mac/foxora-x64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
